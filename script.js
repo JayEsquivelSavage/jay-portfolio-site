@@ -33,7 +33,7 @@ const projects = [
     tone: "tone-product",
   },
   {
-    name: "hack-ai-2026",
+    name: "SkillDuel",
     type: "SkillDuel learning platform",
     description:
       "AI-generated short-form learning platform with personalized lesson paths, video lessons, quizzes, peer challenges, XP, and streaks.",
