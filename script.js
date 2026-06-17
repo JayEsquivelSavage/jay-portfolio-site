@@ -55,7 +55,7 @@ const projects = [
     tone: "tone-workflow",
   },
   {
-    name: "safespeak / Suverity",
+    name: "SafeSpeak",
     type: "Safety documentation app",
     description:
       "Confidential app concept for documenting harmful interactions, analyzing text patterns, and connecting users with support resources.",
@@ -77,7 +77,7 @@ const projects = [
     tone: "tone-health",
   },
   {
-    name: "Axxess-app",
+    name: "Suverity",
     type: "Hackathon product build",
     description:
       "Hackathon application built with a frontend product interface and team-driven delivery around the Axxess challenge.",
